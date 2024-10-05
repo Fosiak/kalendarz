@@ -9,14 +9,7 @@ function App() {
         <p>
           Hello vercel!!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+              Tutaj Kalendarz kiedyś będzie :D
       </header>
     </div>
   );
