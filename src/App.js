@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+       <h1>Jest tutaj takie coś jak synchronizacja?</h1>
         <p>
           Hello vercel!!
         </p>
